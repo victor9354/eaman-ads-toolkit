@@ -29,6 +29,5 @@ SCOPE & COMPLIANCE:
 - Educational purpose: learning programmatic PPC management techniques
 - No commercial application or data resale
 
-I maintain full control of the codebase on my local environment with no 
-external user access. The tool helps me improve my own campaign ROAS while 
-enhancing my backend development skills.
+Maintain full control of the codebase on local environment with no external user access. 
+The tool helps improve campaign ROAS while enhancing backend development skills.
